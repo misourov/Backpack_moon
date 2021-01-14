@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 70px;
+    color: #363958;
+}
+h2{
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 0.5em;
+    color: #363958;
+}
+h3{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 35px;
+    font-weight: bold;
+}
+h4{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    color: #363958;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    color: #3E3E3E;
+    font-size: 16px;
+}
+.highlight{
+    color: #76C27E;
+}
+.bynw{
+    float: right;
+}
+.bpak{
+    float: right;
+}
+.special{
+    border: none;
+}
+.buy{  
+    font-family: 'Roboto', sans-serif;
+    background-color: #2A1E59;
+    text-transform: uppercase;
+    font-size: 15px;
+    padding: 10px 20px;
+}
+.header-area{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    overflow: hidden;
+}
+.header-area .navbar-nav{
+    margin-left: auto;
+}
+.header-area .navbar-nav .shop-list {
+    font-size: 20px;
+    color: #76C27E;
+    padding: 0px 20px;
+}
+
+
+.header-area img{
+    width: 180px;
+    height: auto;
+    margin-left: 50px;
+}
+.sub-header-area{
+    margin-top: 20%;
+    overflow: hidden;
+    background-color: #3e3e3e25;
+}
+.middle-area{
+    overflow: hidden;
+}
+.middle-area .perfect img {
+    width: 100px;
+    height: auto;
+}
+.casual-area{
+    background-color: #3e3e3e25;
+    overflow: hidden;
+    padding-top: 5%;
+}
+.travel-area{
+    background-color: #3e3e3e25;
+    overflow: hidden;
+    padding-top: 5%;
+}
+.subscription{
+    overflow: hidden;
+    background-color: #76C27E;
+}
